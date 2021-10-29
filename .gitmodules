@@ -19,3 +19,6 @@
 [submodule "PythonSolidityBrownieEssentials"]
 	path = PythonSolidityBrownieEssentials
 	url = https://github.com/michael-steinert-repository/PythonSolidityBrownieEssentials.git
+[submodule "PythonWeb3Essentials"]
+	path = PythonWeb3Essentials
+	url = https://github.com/michael-steinert-repository/PythonWeb3Essentials.git
