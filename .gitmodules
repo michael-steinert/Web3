@@ -13,3 +13,6 @@
 [submodule "MoralisBscEssentials"]
 	path = MoralisBscEssentials
 	url = https://github.com/michael-steinert-repository/MoralisBscEssentials.git
+[submodule "solidity-playground"]
+	path = solidity-playground
+	url = https://github.com/michael-steinert-repository/solidity-playground.git
