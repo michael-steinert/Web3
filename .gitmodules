@@ -4,3 +4,6 @@
 [submodule "1inchDexJavascriptMoralis"]
 	path = 1inchDexJavascriptMoralis
 	url = https://github.com/michael-steinert-repository/1inchDexJavascriptMoralis.git
+[submodule "SolidityNftOpenseaJavascript"]
+	path = SolidityNftOpenseaJavascript
+	url = https://github.com/michael-steinert-repository/SolidityNftOpenseaJavascript.git
