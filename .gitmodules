@@ -28,3 +28,6 @@
 [submodule "TruffleEssentialsRopsten"]
 	path = TruffleEssentialsRopsten
 	url = https://github.com/michael-steinert-repository/TruffleEssentialsRopsten.git
+[submodule "MoralisReactUserAdminDApp"]
+	path = MoralisReactUserAdminDApp
+	url = https://github.com/michael-steinert-repository/MoralisReactUserAdminDApp.git
