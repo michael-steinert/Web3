@@ -49,3 +49,6 @@
 [submodule "SolidityIPFSFileUploadWeb3ReactJS"]
 	path = SolidityIPFSFileUploadWeb3ReactJS
 	url = https://github.com/michael-steinert-repository/SolidityIPFSFileUploadWeb3ReactJS.git
+[submodule "SolidityStakingCustomTokenWeb3ReactJS"]
+	path = SolidityStakingCustomTokenWeb3ReactJS
+	url = https://github.com/michael-steinert-repository/SolidityStakingCustomTokenWeb3ReactJS.git
