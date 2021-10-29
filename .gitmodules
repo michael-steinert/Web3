@@ -22,3 +22,6 @@
 [submodule "PythonWeb3Essentials"]
 	path = PythonWeb3Essentials
 	url = https://github.com/michael-steinert-repository/PythonWeb3Essentials.git
+[submodule "CeramicNetworkIDXEthereumDecentralizedIdentity"]
+	path = CeramicNetworkIDXEthereumDecentralizedIdentity
+	url = https://github.com/michael-steinert-repository/CeramicNetworkIDXEthereumDecentralizedIdentity.git
