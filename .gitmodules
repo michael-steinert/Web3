@@ -52,3 +52,6 @@
 [submodule "SolidityStakingCustomTokenWeb3ReactJS"]
 	path = SolidityStakingCustomTokenWeb3ReactJS
 	url = https://github.com/michael-steinert-repository/SolidityStakingCustomTokenWeb3ReactJS.git
+[submodule "SolidityWeb3ECommerceExpressMongooseMongoDBReact"]
+	path = SolidityWeb3ECommerceExpressMongooseMongoDBReact
+	url = https://github.com/michael-steinert-repository/SolidityWeb3ECommerceExpressMongooseMongoDBReact.git
