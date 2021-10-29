@@ -16,3 +16,6 @@
 [submodule "solidity-playground"]
 	path = solidity-playground
 	url = https://github.com/michael-steinert-repository/solidity-playground.git
+[submodule "PythonSolidityBrownieEssentials"]
+	path = PythonSolidityBrownieEssentials
+	url = https://github.com/michael-steinert-repository/PythonSolidityBrownieEssentials.git
