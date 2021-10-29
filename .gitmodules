@@ -55,3 +55,6 @@
 [submodule "SolidityWeb3ECommerceExpressMongooseMongoDBReact"]
 	path = SolidityWeb3ECommerceExpressMongooseMongoDBReact
 	url = https://github.com/michael-steinert-repository/SolidityWeb3ECommerceExpressMongooseMongoDBReact.git
+[submodule "EthereumPolygonNFTNextJsMarketplace"]
+	path = EthereumPolygonNFTNextJsMarketplace
+	url = https://github.com/michael-steinert-repository/EthereumPolygonNFTNextJsMarketplace.git
