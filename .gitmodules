@@ -1,3 +1,6 @@
 [submodule "BrownieEssentials"]
 	path = BrownieEssentials
 	url = https://github.com/michael-steinert-repository/BrownieEssentials.git
+[submodule "1inchDexJavascriptMoralis"]
+	path = 1inchDexJavascriptMoralis
+	url = https://github.com/michael-steinert-repository/1inchDexJavascriptMoralis.git
