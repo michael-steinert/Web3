@@ -31,3 +31,6 @@
 [submodule "MoralisReactUserAdminDApp"]
 	path = MoralisReactUserAdminDApp
 	url = https://github.com/michael-steinert-repository/MoralisReactUserAdminDApp.git
+[submodule "SolidityWeb3TruffleGanacheReactDeFi"]
+	path = SolidityWeb3TruffleGanacheReactDeFi
+	url = https://github.com/michael-steinert-repository/SolidityWeb3TruffleGanacheReactDeFi.git
