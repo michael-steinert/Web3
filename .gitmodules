@@ -43,3 +43,6 @@
 [submodule "SolidityIPFSVideoUploadWeb3ReactJS"]
 	path = SolidityIPFSVideoUploadWeb3ReactJS
 	url = https://github.com/michael-steinert-repository/SolidityIPFSVideoUploadWeb3ReactJS.git
+[submodule "SolidityIPFSImageUploadWeb3ReactJS"]
+	path = SolidityIPFSImageUploadWeb3ReactJS
+	url = https://github.com/michael-steinert-repository/SolidityIPFSImageUploadWeb3ReactJS.git
