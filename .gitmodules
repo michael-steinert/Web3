@@ -37,3 +37,6 @@
 [submodule "SolidityHardhatEthersReactDApp"]
 	path = SolidityHardhatEthersReactDApp
 	url = https://github.com/michael-steinert-repository/SolidityHardhatEthersReactDApp.git
+[submodule "SolidityReactVotingSmartContract"]
+	path = SolidityReactVotingSmartContract
+	url = https://github.com/michael-steinert-repository/SolidityReactVotingSmartContract.git
