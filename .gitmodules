@@ -58,3 +58,6 @@
 [submodule "EthereumPolygonNFTNextJsMarketplace"]
 	path = EthereumPolygonNFTNextJsMarketplace
 	url = https://github.com/michael-steinert-repository/EthereumPolygonNFTNextJsMarketplace.git
+[submodule "EthereumTheGraphGraphQLSubgraphStudio"]
+	path = EthereumTheGraphGraphQLSubgraphStudio
+	url = https://github.com/michael-steinert-repository/EthereumTheGraphGraphQLSubgraphStudio.git
