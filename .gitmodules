@@ -64,3 +64,6 @@
 [submodule "RandomSvgNftChainlinkJavaScriptHardhat"]
 	path = RandomSvgNftChainlinkJavaScriptHardhat
 	url = https://github.com/michael-steinert-repository/RandomSvgNftChainlinkJavaScriptHardhat.git
+[submodule "SolidityReactIpfsVideoUpload"]
+	path = SolidityReactIpfsVideoUpload
+	url = https://github.com/michael-steinert/SolidityReactIpfsVideoUpload.git
