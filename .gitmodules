@@ -67,3 +67,6 @@
 [submodule "SolidityReactIpfsVideoUpload"]
 	path = SolidityReactIpfsVideoUpload
 	url = https://github.com/michael-steinert/SolidityReactIpfsVideoUpload.git
+[submodule "TheGraphEssentials"]
+	path = TheGraphEssentials
+	url = https://github.com/michael-steinert/TheGraphEssentials.git
