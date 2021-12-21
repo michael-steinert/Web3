@@ -73,3 +73,6 @@
 [submodule "SolanaAnchorRustEssetials"]
 	path = SolanaAnchorRustEssetials
 	url = https://github.com/michael-steinert/SolanaAnchorRustEssetials.git
+[submodule "SolanaRustEscrowEssentials"]
+	path = SolanaRustEscrowEssentials
+	url = https://github.com/michael-steinert/SolanaRustEscrowEssentials.git
