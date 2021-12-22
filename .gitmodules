@@ -76,3 +76,6 @@
 [submodule "SolanaRustEscrowEssentials"]
 	path = SolanaRustEscrowEssentials
 	url = https://github.com/michael-steinert/SolanaRustEscrowEssentials.git
+[submodule "SolanaAnchorRustPhantomGifPortal"]
+	path = SolanaAnchorRustPhantomGifPortal
+	url = https://github.com/michael-steinert/SolanaAnchorRustPhantomGifPortal.git
