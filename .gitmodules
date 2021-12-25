@@ -79,3 +79,6 @@
 [submodule "SolanaAnchorRustPhantomGifPortal"]
 	path = SolanaAnchorRustPhantomGifPortal
 	url = https://github.com/michael-steinert/SolanaAnchorRustPhantomGifPortal.git
+[submodule "EthereumSolidityHardhatEventsEssentials"]
+	path = EthereumSolidityHardhatEventsEssentials
+	url = https://github.com/michael-steinert/EthereumSolidityHardhatEventsEssentials.git
