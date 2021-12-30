@@ -85,3 +85,6 @@
 [submodule "SolanaAnchorRustVueTailwindTwitter"]
 	path = SolanaAnchorRustVueTailwindTwitter
 	url = https://github.com/michael-steinert/SolanaAnchorRustVueTailwindTwitter.git
+[submodule "EthereumDao3rdWebEssentials"]
+	path = EthereumDao3rdWebEssentials
+	url = https://github.com/michael-steinert/EthereumDao3rdWebEssentials.git
