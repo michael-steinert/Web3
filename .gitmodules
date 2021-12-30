@@ -82,3 +82,6 @@
 [submodule "EthereumSolidityHardhatEventsEssentials"]
 	path = EthereumSolidityHardhatEventsEssentials
 	url = https://github.com/michael-steinert/EthereumSolidityHardhatEventsEssentials.git
+[submodule "SolanaAnchorRustVueTailwindTwitter"]
+	path = SolanaAnchorRustVueTailwindTwitter
+	url = https://github.com/michael-steinert/SolanaAnchorRustVueTailwindTwitter.git
