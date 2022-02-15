@@ -88,3 +88,6 @@
 [submodule "EthereumDao3rdWebEssentials"]
 	path = EthereumDao3rdWebEssentials
 	url = https://github.com/michael-steinert/EthereumDao3rdWebEssentials.git
+[submodule "FullStackWeb3NextJsPolygonSolidityTheGraphIpfsHardhat"]
+	path = FullStackWeb3NextJsPolygonSolidityTheGraphIpfsHardhat
+	url = https://github.com/michael-steinert/FullStackWeb3NextJsPolygonSolidityTheGraphIpfsHardhat.git
