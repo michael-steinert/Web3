@@ -91,3 +91,6 @@
 [submodule "FullStackWeb3NextJsPolygonSolidityTheGraphIpfsHardhat"]
 	path = FullStackWeb3NextJsPolygonSolidityTheGraphIpfsHardhat
 	url = https://github.com/michael-steinert/FullStackWeb3NextJsPolygonSolidityTheGraphIpfsHardhat.git
+[submodule "FullStackWeb3LotterySolidityVrfChainlinkHardhatNextJS"]
+	path = FullStackWeb3LotterySolidityVrfChainlinkHardhatNextJS
+	url = https://github.com/michael-steinert/FullStackWeb3LotterySolidityVrfChainlinkHardhatNextJS.git
