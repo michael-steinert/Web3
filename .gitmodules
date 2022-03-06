@@ -94,3 +94,6 @@
 [submodule "FullStackWeb3LotterySolidityVrfChainlinkHardhatNextJS"]
 	path = FullStackWeb3LotterySolidityVrfChainlinkHardhatNextJS
 	url = https://github.com/michael-steinert/FullStackWeb3LotterySolidityVrfChainlinkHardhatNextJS.git
+[submodule "DaoOpenzeppelinGovernanceSolidityTypeScript"]
+	path = DaoOpenzeppelinGovernanceSolidityTypeScript
+	url = https://github.com/michael-steinert/DaoOpenzeppelinGovernanceSolidityTypeScript
