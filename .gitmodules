@@ -97,3 +97,6 @@
 [submodule "DaoOpenzeppelinGovernanceSolidityTypeScript"]
 	path = DaoOpenzeppelinGovernanceSolidityTypeScript
 	url = https://github.com/michael-steinert/DaoOpenzeppelinGovernanceSolidityTypeScript
+[submodule "EthersEssentials"]
+	path = EthersEssentials
+	url = https://github.com/michael-steinert/EthersEssentials.git
