@@ -100,3 +100,6 @@
 [submodule "EthersEssentials"]
 	path = EthersEssentials
 	url = https://github.com/michael-steinert/EthersEssentials.git
+[submodule "SolanaNextJsSolanaPayStore"]
+	path = SolanaNextJsSolanaPayStore
+	url = https://github.com/michael-steinert/SolanaNextJsSolanaPayStore
