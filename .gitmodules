@@ -103,3 +103,6 @@
 [submodule "SolanaNextJsSolanaPayStore"]
 	path = SolanaNextJsSolanaPayStore
 	url = https://github.com/michael-steinert/SolanaNextJsSolanaPayStore
+[submodule "SolidityHardhatUnitTesting"]
+	path = SolidityHardhatUnitTesting
+	url = https://github.com/michael-steinert/SolidityHardhatUnitTesting
