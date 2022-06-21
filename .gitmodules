@@ -106,3 +106,6 @@
 [submodule "SolidityHardhatUnitTesting"]
 	path = SolidityHardhatUnitTesting
 	url = https://github.com/michael-steinert/SolidityHardhatUnitTesting
+[submodule "ThirdwebDaoV2JavaScript"]
+	path = ThirdwebDaoV2JavaScript
+	url = https://github.com/michael-steinert/ThirdwebDaoV2JavaScript
